@@ -249,6 +249,3 @@ window.addEventListener('DOMContentLoaded', () =>{
     ).render();
 });
 
-   
-  
-    
