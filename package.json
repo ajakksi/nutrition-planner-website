@@ -12,11 +12,19 @@
   },
   "author": "",
   "license": "ISC",
+  "browsersList": [
+    ">1%"
+  ],
   "bugs": {
     "url": "https://github.com/ajakksi/nutrition-planner-website/issues"
   },
   "homepage": "https://github.com/ajakksi/nutrition-planner-website#readme",
   "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "babel-loader": "^10.1.1",
+    "core-js": "^3.49.0",
     "json-server": "^1.0.0-beta.15",
     "webpack": "^5.106.2",
     "webpack-cli": "^7.0.2"
